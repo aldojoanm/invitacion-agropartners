@@ -57,7 +57,7 @@ const ReceptionLocation: React.FC = () => {
       <div className="agenda-wrap">
         <p className="agenda-intro" data-anim="fade-up" style={d(40)}>
           Te invitamos a ser parte de una nueva
-          edición de Experience AgroPartners.
+          edición de Experience Agropartners.
         </p>
 
         {/* Flecha indicativa SOLO móvil (debajo del texto) */}
